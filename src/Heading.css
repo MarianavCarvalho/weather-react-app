@@ -1,0 +1,77 @@
+.columns {
+    margin: 0 10px;
+}
+
+.col-6 {
+    margin-top: 20px;
+    padding: 12px;
+}
+
+.cityData {
+    text-align: right;
+}
+
+.leftList .propertiesList {
+    text-align: left;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+.date {
+    font-size: 18px;
+    margin: 5px 0 20px;
+}
+
+p,
+#celcius {
+    display: inline;
+    font-size: 28px;
+    padding-right: 5px;
+}
+
+ul {
+    list-style: none;
+    text-transform: capitalize;
+    padding-left: 0;
+    padding-right: 5px;
+    margin-bottom: 0;
+}
+
+.cityData a {
+    color: black;
+    font-size: 28px;
+    text-decoration: none;
+    cursor: default;
+}
+
+.button {
+    text-align: center;
+}
+
+.forecast {
+    text-align: center;
+    margin: 15px 0;
+    padding: 0;
+}
+
+.forecastDays {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.forecastVariationTemperature {
+    font-size: 14px;
+}
+
+.col-2 {
+    display: block;
+    padding: 0;
+}
+
+.maxTemperature {
+    font-size: larger;
+    font-weight: 500;
+}
