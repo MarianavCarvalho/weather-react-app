@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer>
       <a
-        href="https://github.com/MarianavCarvalho/shecodesplus7-weather-app"
+        href="https://github.com/MarianavCarvalho/weather-react-app"
         target="_blank" rel="noreferrer"
       >
         Open source-code
